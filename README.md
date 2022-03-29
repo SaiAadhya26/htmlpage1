@@ -4,7 +4,7 @@
 <html>
 <body>
   
-<img src="C:\Users\Lappy\Desktop\butterfly" alt="aaron-burden-DKWjcMHF54E-unsplash" width="460" height="300">  
+<img src="file:///C:/Users/Lappy/Desktop/butterfly.jpg.PNG" alt="aaron-burden-DKWjcMHF54E-unsplash" width="460" height="300">  
 
 <h1>My First Heading</h1>
 <h2>This is devi</h2>
