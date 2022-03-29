@@ -7,6 +7,7 @@
 <img src="butterfly.jpg.PNG" alt="butterfly" width="460" height="300">
 <h1>My First Heading</h1>
 <h2>This is devi</h2>
+<h2>This is devi</h2>
 
 <p>My first paragraph.</p>
 
